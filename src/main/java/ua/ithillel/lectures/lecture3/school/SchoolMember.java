@@ -1,11 +1,22 @@
 package ua.ithillel.lectures.lecture3.school;
 
+import java.util.List;
+
 public class SchoolMember {
 
     protected String name;
     protected String surname;
     protected int age;
     protected String email;
+    private List<StudyGroup> groups;
+
+    public List<StudyGroup> getGroups() {
+        return groups;
+    }
+
+    public void setGroups(List<StudyGroup> groups) {
+        this.groups = groups;
+    }
 
     public String getName() {
         return name;

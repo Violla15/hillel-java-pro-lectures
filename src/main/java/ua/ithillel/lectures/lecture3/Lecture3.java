@@ -8,7 +8,7 @@ import java.util.List;
 public class Lecture3 {
 
     public static void main(String[] args) {
-        Student student = new Student();
+      /*  Student student = new Student();
         student.setName("Oleg");
         student.setSurname("Oleinik");
         student.setAge(25);
@@ -22,7 +22,7 @@ public class Lecture3 {
         teacher.setAge(30);
         teacher.setEmail("ivanov@gmail.com");
         teacher.setExperience(3);
-        System.out.println("Teacher = " + teacher);
+        System.out.println("Teacher = " + teacher);*/
     }
 
 }
