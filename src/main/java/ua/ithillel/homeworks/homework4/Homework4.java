@@ -7,5 +7,7 @@ public class Homework4 {
         FractionNumber fractionNumber = new FractionNumber(/*1,3*/);
         FractionNumber plusResult = fractionNumber.plus(new FractionNumber(/*2,3*/));
         System.out.println("Plus operation result is " + plusResult);
+
+
     }
 }
