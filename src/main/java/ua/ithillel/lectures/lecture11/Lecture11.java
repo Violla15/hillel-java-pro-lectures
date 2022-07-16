@@ -11,6 +11,11 @@ public class Lecture11 {
 
     }
 
+    private void lecture11Changes() {
+        System.out.println("Lecture 11 changes");
+
+    }
+
     private void branchChanges() {
         System.out.println("my changes");
     }
