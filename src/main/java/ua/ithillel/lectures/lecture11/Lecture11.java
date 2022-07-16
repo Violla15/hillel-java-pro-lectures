@@ -8,6 +8,10 @@ public class Lecture11 {
         // 3) Andrey Koncevoda
         // 4) Violetta
         // 5) Bogdan Tokarenko
-        
+
+    }
+
+    private void branchChanges() {
+        System.out.println("my changes");
     }
 }
