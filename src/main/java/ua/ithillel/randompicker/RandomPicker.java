@@ -6,7 +6,7 @@ import java.util.Random;
 public class RandomPicker {
 
     public static void main(String[] args) {
-        List<String> students = List.of("Anna Pchelintseva",
+        List<String> students = List.of(
                 "Krushniak Oleksandr",
                 "Valeriia Kosohova",
                 "Violetta Churikova",
